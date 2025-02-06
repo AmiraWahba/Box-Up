@@ -4,7 +4,7 @@
              x:Class="MauiApp1.MainPage">
 
     <ScrollView>
-        <VerticalStackLayout>
+        <VerticalStackLayout Padding="30,0" Spacing="25">
             <Button Text="save"></Button>
             
              <Button Text="Hello" />
@@ -16,7 +16,7 @@
             
           
 
-            <!--Padding="30,0"
+            <!--
             Spacing="25">
             <Image
                 Source=""
